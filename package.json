@@ -1,0 +1,14 @@
+{
+    "name": "easy-time",
+    "version": "0.0.1",
+    "repository": "https://github.com/smaranda-onutu/easy-time",
+    "licence": "MIT",
+    "scripts": {
+        "test": "node src/test/easy-time.js"
+    },
+    "dependencies": {
+        "assert": "^1.4.1",
+        "require": "^2.4.20",
+        "test": "^0.6.0"
+    }
+}
