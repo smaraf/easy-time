@@ -1,3 +1,9 @@
+//! easy-time.js
+//! version : 0.0.1
+//! authors : Smaranda Onutu and easy-time.js contributors
+//! license : MIT
+//! https://github.com/smaranda-onutu/easy-time
+
 var EasyTime = function() {
     var _offset, _innerDate;
 
